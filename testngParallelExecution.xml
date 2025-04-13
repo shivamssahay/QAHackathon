@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParallelSuite" parallel="tests" thread-count="2">
+
+    <test thread-count="2" name="Test">
+        <parameter name="browser" value="Chrome" />
+        <parameter name="url" value="https://the-internet.herokuapp.com/login" />
+        <classes>
+            <class name="com.lambdaTestHackathon.TestCases.LoginPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+  
+    <test thread-count="2" name="Test Alerts">
+        <parameter name="browser" value="Chrome" />
+        <parameter name="url" value="https://the-internet.herokuapp.com/javascript_alerts" />
+        <classes>
+            <class name="com.lambdaTestHackathon.TestCases.AlertPageTest"/>
+        </classes>
+    </test> <!-- Test -->
+
+</suite>

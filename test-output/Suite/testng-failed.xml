@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="url" value="https://the-internet.herokuapp.com/login"/>
+    <classes>
+      <class name="com.lambdaTestHackathon.TestCases.LoginPageTest">
+        <methods>
+          <include name="setup"/>
+          <include name="loginTestwithInvalidCredentials"/>
+          <include name="afterSuite"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+          <include name="loadConfig"/>
+        </methods>
+      </class> <!-- com.lambdaTestHackathon.TestCases.LoginPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+  <test thread-count="5" name="Test Alerts(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="url" value="https://the-internet.herokuapp.com/javascript_alerts"/>
+    <classes>
+      <class name="com.lambdaTestHackathon.TestCases.AlertPageTest">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="AlertHandlding"/>
+          <include name="tearDown"/>
+          <include name="loadConfig"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.lambdaTestHackathon.TestCases.AlertPageTest -->
+    </classes>
+  </test> <!-- Test Alerts(failed) -->
+</suite> <!-- Failed suite [Suite] -->

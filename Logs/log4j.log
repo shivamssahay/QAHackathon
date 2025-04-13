@@ -1,0 +1,417 @@
+2025-04-13 13:53:08 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 13:53:08 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 13:53:08 INFO  Log:23 - Enter Username and Password
+2025-04-13 13:57:59 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 13:57:59 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 13:57:59 INFO  Log:23 - Enter Username and Password
+2025-04-13 13:58:02 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 13:58:02 INFO  Log:23 - Login is Sucess
+2025-04-13 13:58:02 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 14:24:00 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 14:24:00 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 14:24:00 INFO  Log:23 - Enter Username and Password
+2025-04-13 14:24:02 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 14:24:02 INFO  Log:23 - Login is Sucess
+2025-04-13 14:24:02 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 14:49:21 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 14:49:21 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 14:49:21 INFO  Log:23 - Enter Username and Password
+2025-04-13 14:49:24 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 14:49:24 INFO  Log:23 - Login is Sucess
+2025-04-13 14:49:24 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 14:49:30 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 14:49:30 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 14:49:30 INFO  Log:23 - Enter Username and Password
+2025-04-13 14:49:33 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 14:59:13 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 14:59:13 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 14:59:13 INFO  Log:23 - Enter Username and Password
+2025-04-13 14:59:16 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 14:59:16 INFO  Log:23 - Login is Sucess
+2025-04-13 14:59:16 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 14:59:21 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 14:59:21 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 14:59:21 INFO  Log:23 - Enter Username and Password
+2025-04-13 14:59:24 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 14:59:24 INFO  Log:23 - Login is failed
+2025-04-13 14:59:24 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 15:08:48 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 15:08:48 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 15:08:48 INFO  Log:23 - Enter Username and Password
+2025-04-13 15:08:49 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 15:08:49 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 15:08:49 INFO  Log:23 - Enter Username and Password
+2025-04-13 15:08:52 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 15:08:57 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 15:08:57 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 15:08:57 INFO  Log:23 - Enter Username and Password
+2025-04-13 15:09:00 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 15:09:00 INFO  Log:23 - Login is failed
+2025-04-13 15:09:00 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 15:14:33 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 15:14:33 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 15:14:33 INFO  Log:23 - Enter Username and Password
+2025-04-13 15:14:36 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 15:14:36 INFO  Log:23 - Login is Sucess
+2025-04-13 15:14:36 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 15:14:41 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 15:14:41 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 15:14:41 INFO  Log:23 - Enter Username and Password
+2025-04-13 15:14:44 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 15:14:44 INFO  Log:23 - Login is failed
+2025-04-13 15:14:44 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 16:49:24 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 16:49:24 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 16:49:24 INFO  Log:23 - Enter Username and Password
+2025-04-13 16:49:27 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 16:49:27 INFO  Log:23 - Login is Sucess
+2025-04-13 16:49:27 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 16:49:32 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 16:49:32 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 16:49:32 INFO  Log:23 - Enter Username and Password
+2025-04-13 16:49:35 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 16:49:35 INFO  Log:23 - Login is failed
+2025-04-13 16:49:35 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 16:49:45 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 16:49:45 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 16:49:45 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 16:49:46 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 16:49:46 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 16:49:46 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 16:52:48 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 16:52:48 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 16:52:48 INFO  Log:23 - Enter Username and Password
+2025-04-13 16:52:51 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 16:52:51 INFO  Log:23 - Login is Sucess
+2025-04-13 16:52:51 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 16:52:56 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 16:52:56 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 16:52:56 INFO  Log:23 - Enter Username and Password
+2025-04-13 16:52:59 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 16:52:59 INFO  Log:23 - Login is failed
+2025-04-13 16:52:59 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 16:53:09 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 16:53:09 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 16:53:09 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 16:53:10 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 16:53:10 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 16:53:10 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 16:57:23 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 16:57:23 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 16:57:23 INFO  Log:23 - Enter Username and Password
+2025-04-13 16:57:26 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 16:57:26 INFO  Log:23 - Login is Sucess
+2025-04-13 16:57:26 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 16:57:38 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 16:57:38 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 16:57:38 INFO  Log:23 - Enter Username and Password
+2025-04-13 17:03:05 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 17:03:05 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 17:03:05 INFO  Log:23 - Enter Username and Password
+2025-04-13 17:03:08 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 17:03:08 INFO  Log:23 - Login is Sucess
+2025-04-13 17:03:08 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 17:03:13 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 17:03:13 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 17:03:13 INFO  Log:23 - Enter Username and Password
+2025-04-13 17:03:16 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 17:03:16 INFO  Log:23 - Login is failed
+2025-04-13 17:03:16 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 17:03:26 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 17:03:26 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 17:07:34 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 17:07:34 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 17:07:34 INFO  Log:23 - Enter Username and Password
+2025-04-13 17:07:37 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 17:07:37 INFO  Log:23 - Login is Sucess
+2025-04-13 17:07:37 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 17:07:42 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 17:07:42 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 17:07:42 INFO  Log:23 - Enter Username and Password
+2025-04-13 17:07:45 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 17:07:45 INFO  Log:23 - Login is failed
+2025-04-13 17:07:45 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 17:07:55 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 17:07:55 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 17:10:28 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 17:10:28 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 17:10:28 INFO  Log:23 - Enter Username and Password
+2025-04-13 17:10:31 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 17:10:31 INFO  Log:23 - Login is Sucess
+2025-04-13 17:10:31 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 17:10:36 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 17:10:36 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 17:10:36 INFO  Log:23 - Enter Username and Password
+2025-04-13 17:10:39 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 17:10:39 INFO  Log:23 - Login is failed
+2025-04-13 17:10:39 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 17:10:49 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 17:10:49 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 17:10:49 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 17:10:50 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 17:10:50 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 17:10:50 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 17:12:40 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 17:12:40 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 17:12:40 INFO  Log:23 - Enter Username and Password
+2025-04-13 17:12:43 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 17:12:43 INFO  Log:23 - Login is Sucess
+2025-04-13 17:12:43 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 17:12:48 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 17:12:48 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 17:12:48 INFO  Log:23 - Enter Username and Password
+2025-04-13 17:12:51 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 17:12:51 INFO  Log:23 - Login is failed
+2025-04-13 17:12:51 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 17:13:01 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 17:13:01 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 17:13:03 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 17:13:07 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 17:13:11 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 17:13:16 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 19:39:10 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:39:10 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:39:11 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:39:14 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:39:14 INFO  Log:23 - Login is Sucess
+2025-04-13 19:39:14 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 19:39:19 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:39:19 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:39:19 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:39:22 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:39:22 INFO  Log:23 - Login is failed
+2025-04-13 19:39:22 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 19:39:32 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 19:39:32 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 19:39:34 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 19:39:38 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 19:39:42 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 19:39:46 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 19:51:07 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:51:07 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:51:08 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:51:11 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:51:11 INFO  Log:23 - Login is Sucess
+2025-04-13 19:51:11 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 19:51:16 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:51:16 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:51:16 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:51:19 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:51:19 INFO  Log:23 - Login is failed
+2025-04-13 19:51:19 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 19:51:29 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 19:51:29 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 19:51:31 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 19:51:35 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 19:51:39 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 19:51:43 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 19:51:49 INFO  Log:23 - You entered: "Hey, this is an alert message"
+2025-04-13 19:55:36 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:55:36 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:55:36 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:55:39 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:55:39 INFO  Log:23 - Login is Sucess
+2025-04-13 19:55:39 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 19:55:44 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:55:44 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:55:45 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:55:47 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:55:47 INFO  Log:23 - Login is failed
+2025-04-13 19:55:47 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 19:55:57 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 19:55:57 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 19:56:00 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 19:56:02 INFO  Log:23 - You clicked: Ok
+2025-04-13 19:56:04 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 19:56:06 INFO  Log:23 - You clicked: Cancel
+2025-04-13 19:56:08 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 19:57:48 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:57:48 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:57:48 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:57:51 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:57:51 INFO  Log:23 - Login is Sucess
+2025-04-13 19:57:51 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 19:57:56 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:57:56 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:57:56 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:57:59 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:57:59 INFO  Log:23 - Login is failed
+2025-04-13 19:57:59 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 19:58:09 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 19:58:09 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 19:58:11 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 19:58:14 INFO  Log:23 - You clicked: Ok
+2025-04-13 19:58:16 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 19:58:18 INFO  Log:23 - You clicked: Cancel
+2025-04-13 19:58:20 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 19:59:24 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:59:24 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:59:24 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:59:27 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:59:27 INFO  Log:23 - Login is Sucess
+2025-04-13 19:59:27 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 19:59:32 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 19:59:32 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 19:59:32 INFO  Log:23 - Enter Username and Password
+2025-04-13 19:59:35 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 19:59:35 INFO  Log:23 - Login is failed
+2025-04-13 19:59:35 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 19:59:45 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 19:59:45 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 19:59:47 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 19:59:50 INFO  Log:23 - You clicked: Ok
+2025-04-13 19:59:52 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 19:59:54 INFO  Log:23 - You clicked: Cancel
+2025-04-13 19:59:56 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 20:00:59 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:00:59 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:00:59 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:01:02 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:01:02 INFO  Log:23 - Login is Sucess
+2025-04-13 20:01:02 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 20:01:07 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:01:07 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:01:07 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:01:10 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:01:10 INFO  Log:23 - Login is failed
+2025-04-13 20:01:10 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 20:01:20 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 20:01:20 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 20:01:22 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 20:01:24 INFO  Log:23 - You clicked: Ok
+2025-04-13 20:01:26 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 20:01:29 INFO  Log:23 - You clicked: Cancel
+2025-04-13 20:01:31 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 20:02:28 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:02:28 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:02:28 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:02:31 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:02:31 INFO  Log:23 - Login is Sucess
+2025-04-13 20:02:31 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 20:02:36 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:02:36 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:02:36 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:02:39 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:02:39 INFO  Log:23 - Login is failed
+2025-04-13 20:02:39 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 20:02:49 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 20:02:49 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 20:02:49 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 20:02:50 INFO  Log:23 - You clicked: Ok
+2025-04-13 20:02:50 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 20:02:52 INFO  Log:23 - You clicked: Cancel
+2025-04-13 20:02:52 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 20:04:49 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:04:49 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:04:49 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:04:52 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:04:52 INFO  Log:23 - Login is Sucess
+2025-04-13 20:04:52 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 20:04:57 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:04:57 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:04:57 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:05:00 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:05:00 INFO  Log:23 - Login is failed
+2025-04-13 20:05:00 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 20:05:10 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 20:05:10 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 20:05:10 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 20:05:11 INFO  Log:23 - You clicked: Ok
+2025-04-13 20:05:11 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 20:05:13 INFO  Log:23 - You clicked: Cancel
+2025-04-13 20:05:13 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 20:05:13 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 20:05:15 INFO  Log:23 - You entered: "Hey, this is an alert message"
+2025-04-13 20:05:15 INFO  Log:23 - Alert handling is Success
+2025-04-13 20:05:15 INFO  Log:16 - =====================================AlertHandling TEST END=========================================
+2025-04-13 20:05:37 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:05:37 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:05:37 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:05:40 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:05:40 INFO  Log:23 - Login is Sucess
+2025-04-13 20:05:40 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 20:05:45 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:05:45 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:05:45 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:05:48 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:05:48 INFO  Log:23 - Login is failed
+2025-04-13 20:05:48 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 20:05:58 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 20:05:58 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 20:05:58 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 20:05:59 INFO  Log:23 - You clicked: Ok
+2025-04-13 20:05:59 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 20:06:01 INFO  Log:23 - You clicked: Cancel
+2025-04-13 20:06:01 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 20:06:01 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 20:06:03 INFO  Log:23 - You entered: "Hey, this is an alert message"
+2025-04-13 20:06:03 INFO  Log:23 - Alert handling is Success
+2025-04-13 20:06:03 INFO  Log:16 - =====================================AlertHandling TEST END=========================================
+2025-04-13 20:11:23 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:11:23 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:11:23 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:11:25 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:11:25 INFO  Log:23 - Login is Sucess
+2025-04-13 20:11:25 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 20:11:30 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:11:30 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:11:30 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:11:33 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:11:33 INFO  Log:23 - Login is failed
+2025-04-13 20:11:33 INFO  Log:16 - =====================================loginFailedTest TEST END=========================================
+2025-04-13 20:11:43 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 20:11:43 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 20:11:43 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 20:11:44 INFO  Log:23 - You clicked: Ok
+2025-04-13 20:11:44 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 20:11:46 INFO  Log:23 - You clicked: Cancel
+2025-04-13 20:11:46 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 20:11:46 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 20:11:48 INFO  Log:23 - You entered: "Hey, this is an alert message"
+2025-04-13 20:11:48 INFO  Log:23 - Alert handling is Success
+2025-04-13 20:11:48 INFO  Log:16 - =====================================AlertHandling TEST END=========================================
+2025-04-13 20:14:29 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:14:29 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:14:29 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:14:29 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 20:14:30 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 20:14:45 INFO  Log:12 - =====================================login with Invalid Creds Test TEST START=========================================
+2025-04-13 20:14:45 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:14:45 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:14:48 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:14:48 INFO  Log:23 - Login is failed
+2025-04-13 20:14:48 INFO  Log:16 - =====================================login Failed Test TEST END=========================================
+2025-04-13 20:17:30 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 20:17:30 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 20:17:31 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:17:31 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:17:31 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:17:46 INFO  Log:12 - =====================================login with Invalid Creds Test TEST START=========================================
+2025-04-13 20:17:46 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:17:46 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:17:49 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:17:49 INFO  Log:23 - Login is failed
+2025-04-13 20:17:49 INFO  Log:16 - =====================================login Failed Test TEST END=========================================
+2025-04-13 20:27:43 INFO  Log:12 - =====================================AlertHandlding TEST START=========================================
+2025-04-13 20:27:43 INFO  Log:23 - user is going to click on JS Alert
+2025-04-13 20:27:43 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2025-04-13 20:27:43 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:27:43 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:27:43 INFO  Log:23 - User is going to click on JS Confirm
+2025-04-13 20:27:44 INFO  Log:23 - You clicked: Ok
+2025-04-13 20:27:44 INFO  Log:23 - User is going to click on JS Dismiss
+2025-04-13 20:27:46 INFO  Log:23 - You clicked: Cancel
+2025-04-13 20:27:46 INFO  Log:23 - User is going to click on JS Prompt
+2025-04-13 20:27:46 INFO  Log:23 - User is going to enter message in prompt
+2025-04-13 20:27:46 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:27:46 INFO  Log:23 - Login is Sucess
+2025-04-13 20:27:46 INFO  Log:16 - =====================================loginTest TEST END=========================================
+2025-04-13 20:27:48 INFO  Log:23 - You entered: "Hey, this is an alert message"
+2025-04-13 20:27:48 INFO  Log:23 - Alert handling is Success
+2025-04-13 20:27:48 INFO  Log:16 - =====================================AlertHandling TEST END=========================================
+2025-04-13 20:27:51 INFO  Log:12 - =====================================login with Invalid Creds Test TEST START=========================================
+2025-04-13 20:27:51 INFO  Log:23 - user is going to click on SignIn
+2025-04-13 20:27:51 INFO  Log:23 - Enter Username and Password
+2025-04-13 20:27:55 INFO  Log:23 - Verifying if user is able to login
+2025-04-13 20:27:55 INFO  Log:23 - Login is failed
+2025-04-13 20:27:55 INFO  Log:16 - =====================================login Failed Test TEST END=========================================
